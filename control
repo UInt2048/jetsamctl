@@ -1,10 +1,9 @@
-Package: com.kramerapps.jetsamctl
+Package: com.uint2048.jetsamctl
 Name: jetsamctl
 Depends: firmware (>= 6.0)
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Modify Jetsam constraints
-Maintainer: Conrad Kramer
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: ROOTLESS tweak to modify jetsam
+Maintainer: UInt2048
 Author: Conrad Kramer <conrad@kramerapps.com>
-Section: System
-Tag: role::hacker
+Section: Tweaks
